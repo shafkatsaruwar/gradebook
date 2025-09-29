@@ -88,14 +88,14 @@ You will be prompted to:
 2. Add a student:
 
    ```
-   Please enter the name of a student: John
+   Please enter the name of a student: John Travolta
    Please enter the appropriate grade (0 - 100) for John: 95
    ```
 
 3. Output:
 
    ```
-   Grade for John: 95
+   Grade for John Travolta: 95
    Letter Grade: A
    * I understand.
    * I can move on.
@@ -103,13 +103,13 @@ You will be prompted to:
    * Excellent work!
    ```
 
-4. Search for students:
+4. Search for students(first 3 letters):
 
    ```
-   Enter the name to search --> John
+   Enter the name to search --> Joh 
    Search Results:
    Name    Grade
-   John    95
+   John Travolta    95
    ```
 
 ---
